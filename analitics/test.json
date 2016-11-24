@@ -1,0 +1,5425 @@
+{
+  "head_market": {
+    "outcomes": [
+      {
+        "outcome_perc_stat": 50.17,
+        "outcome_coef": 3.4,
+        "outcome_visible": "yes",
+        "outcome_id": 496040416,
+        "outcome_type_id": 1,
+        "outcome_name": "CSKA Moscow",
+        "participant_number": 1
+      },
+      {
+        "outcome_perc_stat": 3.73,
+        "outcome_coef": 3.35,
+        "outcome_visible": "yes",
+        "outcome_id": 496040417,
+        "outcome_type_id": 2,
+        "outcome_name": "Draw",
+        "participant_number": null
+      },
+      {
+        "outcome_perc_stat": 46.1,
+        "outcome_coef": 2.09,
+        "outcome_visible": "yes",
+        "outcome_id": 496040418,
+        "outcome_type_id": 3,
+        "outcome_name": "Bayer 04 Leverkusen",
+        "participant_number": 2
+      }
+    ],
+    "event_id": 6054798,
+    "sport_id": 1,
+    "market_id": 201863264,
+    "market_name": "Money Line",
+    "market_suspend": "no",
+    "market_is_head": "yes",
+    "market_is_trade": false,
+    "market_order": 1.0000010001e13,
+    "market_template_id": 1,
+    "market_template_weigh": 10,
+    "result_type_id": 1,
+    "result_type_weigh": 1,
+    "result_type_name": "Full Time",
+    "result_type_short_name": "FT"
+  },
+  "market_count_active": 129,
+  "market_count": 129,
+  "event_tv": null,
+  "event_enet_stat_url": "//stats.sportradar.com/s4/?clientid=65&language=en&matchid=10058939",
+  "category_id": 922,
+  "category_name": "Europe",
+  "category_slug": "922-europe",
+  "category_weigh": 1,
+  "country_id": 212,
+  "event_broadcast_url": null,
+  "event_comment_template_comment": [
+    "",
+    ""
+  ],
+  "event_dt": 1.479834e9,
+  "event_edition": 953,
+  "event_enet_id": null,
+  "event_id": 6054798,
+  "event_line_position": 4955,
+  "event_name": "CSKA Moscow - Bayer 04 Leverkusen",
+  "event_result_id": null,
+  "event_result_name": null,
+  "event_result_total": null,
+  "event_result_total_json": {
+    "total": [],
+    "by_period": [],
+    "by_period_point": [],
+    "show_corner_cards": false,
+    "show_field_urine": false
+  },
+  "event_rts_data": null,
+  "event_serving": null,
+  "event_slug": "6054798-cska-moscow-bayer-04-leverkusen",
+  "event_status_desc_name": "",
+  "event_status_type": "notstarted",
+  "event_tv_channel": null,
+  "event_weigh": 100,
+  "live_id": null,
+  "participants": [
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178494,
+      "participant_id": 172459,
+      "participant_name": "CSKA Moscow",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "team",
+      "participant_number": 1
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178495,
+      "participant_id": 7894,
+      "participant_name": "Bayer 04 Leverkusen",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "team",
+      "participant_number": 2
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178542,
+      "participant_id": 362173,
+      "participant_name": "Mário Fernandes",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178541,
+      "participant_id": 362166,
+      "participant_name": "Pontus Wernbloom",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178540,
+      "participant_id": 360388,
+      "participant_name": "Aleksei Ionov",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178539,
+      "participant_id": 357549,
+      "participant_name": "Aleksandr Golovin",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178538,
+      "participant_id": 357547,
+      "participant_name": "Bibras Natcho",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178537,
+      "participant_id": 357548,
+      "participant_name": "Carlos Strandberg",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178536,
+      "participant_id": 350555,
+      "participant_name": "Wernbloom Pontus",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178535,
+      "participant_id": 350554,
+      "participant_name": "Shchennikov Georgi",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178534,
+      "participant_id": 350553,
+      "participant_name": "Ignashevich Sergei",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178533,
+      "participant_id": 350449,
+      "participant_name": "Traore L",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178532,
+      "participant_id": 349604,
+      "participant_name": "Ionov Alexey",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178531,
+      "participant_id": 349603,
+      "participant_name": "Traore Lacina",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178530,
+      "participant_id": 349602,
+      "participant_name": "Golovin  Aleksandr",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178529,
+      "participant_id": 349601,
+      "participant_name": "Berezutski Vasili",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178528,
+      "participant_id": 231691,
+      "participant_name": "Natkho B.",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178527,
+      "participant_id": 64214,
+      "participant_name": "Zoran Tosic",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178526,
+      "participant_id": 26885,
+      "participant_name": "Roman Eremenko",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178525,
+      "participant_id": 74098,
+      "participant_name": "Alan Dzagoev",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178524,
+      "participant_id": 55362,
+      "participant_name": "Keisuke Honda",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178523,
+      "participant_id": 39717,
+      "participant_name": "Vasili Berezutski",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178522,
+      "participant_id": 174185,
+      "participant_name": "Ahmed Musa ",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178521,
+      "participant_id": 174184,
+      "participant_name": "Seydou Doumbia ",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178520,
+      "participant_id": 119641,
+      "participant_name": "Kevin Volland",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178519,
+      "participant_id": 256800,
+      "participant_name": "Joel Pohjanpalo",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178518,
+      "participant_id": 33147,
+      "participant_name": "Roberto Hilbert",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178517,
+      "participant_id": 38877,
+      "participant_name": "Wendell",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178516,
+      "participant_id": 304440,
+      "participant_name": "Vladen Yurchenko",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178515,
+      "participant_id": 53345,
+      "participant_name": "Javier Hernández",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178514,
+      "participant_id": 76985,
+      "participant_name": "Admir Mehmedi",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178513,
+      "participant_id": 99104,
+      "participant_name": "Kevin Kampl",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178512,
+      "participant_id": 223361,
+      "participant_name": "Christoph Kramer",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178511,
+      "participant_id": 231319,
+      "participant_name": "Hakan Çalhanoğlu",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178510,
+      "participant_id": 103163,
+      "participant_name": "Josip Drmic",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178509,
+      "participant_id": 25432,
+      "participant_name": "Emir Spahic",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178508,
+      "participant_id": 229353,
+      "participant_name": "Julian Brandt",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178507,
+      "participant_id": 115152,
+      "participant_name": "Karim Bellarabi",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178506,
+      "participant_id": 54418,
+      "participant_name": "Sidney Sam",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178505,
+      "participant_id": 56097,
+      "participant_name": "Eren Derdiyok",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178504,
+      "participant_id": 26588,
+      "participant_name": "Gonzalo Castro",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178503,
+      "participant_id": 26590,
+      "participant_name": "Simon Rolfes",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178502,
+      "participant_id": 68132,
+      "participant_name": "Ömer Toprak",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178501,
+      "participant_id": 209139,
+      "participant_name": "Son Heung-Min",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178544,
+      "participant_id": 96086,
+      "participant_name": "Georgi Milanov",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178499,
+      "participant_id": 137323,
+      "participant_name": "Renato Augusto De Assis Pinto",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178498,
+      "participant_id": 36338,
+      "participant_name": "Lars Bender",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178497,
+      "participant_id": 30295,
+      "participant_name": "Stefan Kiessling",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178496,
+      "participant_id": 95159,
+      "participant_name": "Andre Schuerrle",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178500,
+      "participant_id": 173714,
+      "participant_name": "Renato Augusto",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    },
+    {
+      "event_id": 6054798,
+      "event_participant_id": 14178543,
+      "participant_id": 358699,
+      "participant_name": "Lacina Traore",
+      "participant_mark_name": null,
+      "participant_mark_short_name": null,
+      "participant_mark_default": null,
+      "participant_type": "athlete",
+      "participant_number": null
+    }
+  ],
+  "sport_id": 1,
+  "sport_is_timer": true,
+  "sport_name": "Soccer",
+  "sport_slug": "soccer",
+  "sport_weigh": 2,
+  "tournament_id": 17409,
+  "tournament_name": "UEFA Champions League",
+  "tournament_slug": "17409-uefa-champions-league",
+  "tournament_weigh": 14,
+  "result_types": [
+    {
+      "result_type_name": "Full Time",
+      "result_type_id": 1,
+      "result_type_weigh": 1,
+      "market_groups": [
+        {
+          "market_name": "Double chance",
+          "market_template_id": 40,
+          "market_template_weigh": 11,
+          "markets": [
+            {
+              "market_id": 201863265,
+              "market_order": 1.1000010001e13,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 13.24,
+                  "outcome_coef": 1.69,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040419,
+                  "outcome_type_id": 4,
+                  "outcome_name": "1X",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 3.46,
+                  "outcome_coef": 1.3,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040420,
+                  "outcome_type_id": 5,
+                  "outcome_name": "12",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 83.3,
+                  "outcome_coef": 1.29,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040421,
+                  "outcome_type_id": 6,
+                  "outcome_name": "X2",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Draw no bet",
+          "market_template_id": 76,
+          "market_template_weigh": 15,
+          "markets": [
+            {
+              "market_id": 201863266,
+              "market_order": 1.5000010001e13,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 22.63,
+                  "outcome_coef": 2.45,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040422,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 77.37,
+                  "outcome_coef": 1.51,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040423,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Handicap",
+          "market_template_id": 190,
+          "market_template_weigh": 20,
+          "markets": [
+            {
+              "market_id": 202048999,
+              "market_order": 20000010000999.0,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 6.9,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496461794,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow (-1.0)",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 1.08,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496461795,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen (+1.0)",
+                  "participant_number": 2
+                }
+              ]
+            },
+            {
+              "market_id": 201863279,
+              "market_order": 20000010000999.5,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.69,
+                  "outcome_coef": 3.4,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040467,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow (-0.5)",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 99.31,
+                  "outcome_coef": 1.29,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040468,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen (+0.5)",
+                  "participant_number": 2
+                }
+              ]
+            },
+            {
+              "market_id": 201863274,
+              "market_order": 2.0000010001e13,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 34.87,
+                  "outcome_coef": 2.45,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040451,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow (0.0)",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 65.13,
+                  "outcome_coef": 1.51,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040454,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen (0.0)",
+                  "participant_number": 2
+                }
+              ]
+            },
+            {
+              "market_id": 201863269,
+              "market_order": 20000010001000.5,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.69,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040428,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow (+0.5)",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.09,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040429,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen (-0.5)",
+                  "participant_number": 2
+                }
+              ]
+            },
+            {
+              "market_id": 201863271,
+              "market_order": 20000010001001.0,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 25.53,
+                  "outcome_coef": 1.31,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040434,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow (+1.0)",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 74.47,
+                  "outcome_coef": 3.25,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040437,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen (-1.0)",
+                  "participant_number": 2
+                }
+              ]
+            },
+            {
+              "market_id": 201863278,
+              "market_order": 20000010001001.5,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 1.21,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040465,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow (+1.5)",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 4.1,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040466,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen (-1.5)",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Over/Under",
+          "market_template_id": 50,
+          "market_template_weigh": 40,
+          "markets": [
+            {
+              "market_id": 201863288,
+              "market_order": 40000010001001.0,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 99.84,
+                  "outcome_coef": 1.06,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040485,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (1.0)",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.16,
+                  "outcome_coef": 7.9,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040486,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (1.0)",
+                  "participant_number": null
+                }
+              ]
+            },
+            {
+              "market_id": 201863285,
+              "market_order": 40000010001001.5,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 1.29,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040479,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (1.5)",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 3.4,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040480,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (1.5)",
+                  "participant_number": null
+                }
+              ]
+            },
+            {
+              "market_id": 201863283,
+              "market_order": 40000010001002.0,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 1.44,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040475,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (2.0)",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.66,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040476,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (2.0)",
+                  "participant_number": null
+                }
+              ]
+            },
+            {
+              "market_id": 201863281,
+              "market_order": 40000010001002.5,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 95.27,
+                  "outcome_coef": 1.9,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040471,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (2.5)",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 4.73,
+                  "outcome_coef": 1.84,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040472,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (2.5)",
+                  "participant_number": null
+                }
+              ]
+            },
+            {
+              "market_id": 201863282,
+              "market_order": 40000010001003.0,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 92.09,
+                  "outcome_coef": 2.56,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040473,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (3.0)",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 7.91,
+                  "outcome_coef": 1.47,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040474,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (3.0)",
+                  "participant_number": null
+                }
+              ]
+            },
+            {
+              "market_id": 201863284,
+              "market_order": 40000010001003.5,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 3.15,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040477,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (3.5)",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 1.33,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040478,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (3.5)",
+                  "participant_number": null
+                }
+              ]
+            },
+            {
+              "market_id": 201863286,
+              "market_order": 40000010001004.0,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 5.2,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040481,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (4.0)",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 1.14,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040482,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (4.0)",
+                  "participant_number": null
+                }
+              ]
+            },
+            {
+              "market_id": 201863287,
+              "market_order": 40000010001004.5,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 5.9,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040483,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (4.5)",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 1.11,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040484,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (4.5)",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Team total CSKA Moscow",
+          "market_template_id": 740,
+          "market_template_weigh": 50,
+          "markets": [
+            {
+              "market_id": 201863290,
+              "market_order": 50010010001000.5,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 1.34,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040489,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (0.5)",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.9,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040490,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (0.5)",
+                  "participant_number": 1
+                }
+              ]
+            },
+            {
+              "market_id": 201863289,
+              "market_order": 50010010001001.0,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 1.83,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040487,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (1.0)",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.83,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040488,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (1.0)",
+                  "participant_number": 1
+                }
+              ]
+            },
+            {
+              "market_id": 201863291,
+              "market_order": 50010010001001.5,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 90.91,
+                  "outcome_coef": 2.9,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040491,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (1.5)",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 9.09,
+                  "outcome_coef": 1.34,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040492,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (1.5)",
+                  "participant_number": 1
+                }
+              ]
+            },
+            {
+              "market_id": 201863292,
+              "market_order": 50010010001002.0,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 6.8,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040493,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (2.0)",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.06,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040494,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (2.0)",
+                  "participant_number": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Team total Bayer 04 Leverkusen",
+          "market_template_id": 740,
+          "market_template_weigh": 50,
+          "markets": [
+            {
+              "market_id": 201863294,
+              "market_order": 50020010001000.5,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 1.17,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040497,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (0.5)",
+                  "participant_number": 2
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 4.25,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040498,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (0.5)",
+                  "participant_number": 2
+                }
+              ]
+            },
+            {
+              "market_id": 201863296,
+              "market_order": 50020010001001.0,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 1.37,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040501,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (1.0)",
+                  "participant_number": 2
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.77,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040502,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (1.0)",
+                  "participant_number": 2
+                }
+              ]
+            },
+            {
+              "market_id": 201863293,
+              "market_order": 50020010001001.5,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 2.06,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040495,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (1.5)",
+                  "participant_number": 2
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.65,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040496,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (1.5)",
+                  "participant_number": 2
+                }
+              ]
+            },
+            {
+              "market_id": 201863295,
+              "market_order": 50020010001002.0,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 3.5,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040499,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (2.0)",
+                  "participant_number": 2
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.24,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040500,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (2.0)",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Odd / Even",
+          "market_template_id": 74,
+          "market_template_weigh": 57,
+          "markets": [
+            {
+              "market_id": 201863268,
+              "market_order": 5.7000010001e13,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.94,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040426,
+                  "outcome_type_id": 30,
+                  "outcome_name": "Odd",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.8,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040427,
+                  "outcome_type_id": 31,
+                  "outcome_name": "Even",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Both Teams to Score",
+          "market_template_id": 779,
+          "market_template_weigh": 60,
+          "markets": [
+            {
+              "market_id": 201863267,
+              "market_order": 6.0000010001e13,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 99.25,
+                  "outcome_coef": 1.7,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040424,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.75,
+                  "outcome_coef": 1.95,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040425,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "2 or 3 goals",
+          "market_template_id": 958,
+          "market_template_weigh": 90,
+          "markets": [
+            {
+              "market_id": 201863312,
+              "market_order": 9.0000010001e13,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040575,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.75,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040576,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Winning Margin",
+          "market_template_id": 1127,
+          "market_template_weigh": 95,
+          "markets": [
+            {
+              "market_id": 201863299,
+              "market_order": 9.5000010001e13,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 3.8,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040527,
+                  "outcome_type_id": 594,
+                  "outcome_name": "Score Draw",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 8.5,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040522,
+                  "outcome_type_id": 250,
+                  "outcome_name": "No Goal",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 5.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040531,
+                  "outcome_type_id": 598,
+                  "outcome_name": "CSKA Moscow 1 Goal",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 3.9,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040528,
+                  "outcome_type_id": 595,
+                  "outcome_name": "Bayer 04 Leverkusen 1 Goal",
+                  "participant_number": 2
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 9.2,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040530,
+                  "outcome_type_id": 597,
+                  "outcome_name": "CSKA Moscow 2 Goals",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 5.9,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040524,
+                  "outcome_type_id": 591,
+                  "outcome_name": "Bayer 04 Leverkusen 2 Goals",
+                  "participant_number": 2
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 18.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040529,
+                  "outcome_type_id": 596,
+                  "outcome_name": "CSKA Moscow 3 Goals",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 12.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040525,
+                  "outcome_type_id": 592,
+                  "outcome_name": "Bayer 04 Leverkusen 3 Goals",
+                  "participant_number": 2
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 60.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040526,
+                  "outcome_type_id": 593,
+                  "outcome_name": "CSKA Moscow 4 Or More Goals",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 17.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040523,
+                  "outcome_type_id": 590,
+                  "outcome_name": "Bayer 04 Leverkusen 4 Or More Goals",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "First Team to Score",
+          "market_template_id": 786,
+          "market_template_weigh": 99,
+          "markets": [
+            {
+              "market_id": 201863297,
+              "market_order": 9.9000010001e13,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.36,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040503,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 8.5,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040504,
+                  "outcome_type_id": 250,
+                  "outcome_name": "No Goal",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 1.76,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040505,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Both Teams To Score Over 1.5 Goals",
+          "market_template_id": 1061,
+          "market_template_weigh": 100,
+          "markets": [
+            {
+              "market_id": 201863305,
+              "market_order": 1.00000010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 5.6,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040561,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.12,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040562,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Both Teams To Score Under 1.5 Goals",
+          "market_template_id": 1060,
+          "market_template_weigh": 100,
+          "markets": [
+            {
+              "market_id": 201863306,
+              "market_order": 1.00000010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.42,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040563,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.52,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040564,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "To Score in Both Halves",
+          "market_template_id": 1063,
+          "market_template_weigh": 100,
+          "markets": [
+            {
+              "market_id": 201863307,
+              "market_order": 1.00000010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 4.3,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040565,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 3.04,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040566,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "1st Half Over 0.5 and 2nd Half Over 0.5",
+          "market_template_id": 1058,
+          "market_template_weigh": 100,
+          "markets": [
+            {
+              "market_id": 201863308,
+              "market_order": 1.00000010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.75,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040567,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040568,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Time of Last Goal",
+          "market_template_id": 792,
+          "market_template_weigh": 100,
+          "markets": [
+            {
+              "market_id": 201863328,
+              "market_order": 1.00000010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 18.5,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040612,
+                  "outcome_type_id": 273,
+                  "outcome_name": "0-15",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 15.5,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040613,
+                  "outcome_type_id": 274,
+                  "outcome_name": "16-30",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 9.6,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040614,
+                  "outcome_type_id": 275,
+                  "outcome_name": "31-HT",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 6.4,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040615,
+                  "outcome_type_id": 276,
+                  "outcome_name": "46-60",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 4.05,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040616,
+                  "outcome_type_id": 277,
+                  "outcome_name": "61-75",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.85,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040617,
+                  "outcome_type_id": 278,
+                  "outcome_name": "76-FT",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Last Team to Score",
+          "market_template_id": 787,
+          "market_template_weigh": 110,
+          "markets": [
+            {
+              "market_id": 201863320,
+              "market_order": 1.10000010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.36,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040591,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 8.5,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040592,
+                  "outcome_type_id": 250,
+                  "outcome_name": "No Goal",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.76,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040593,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "First goal 1-27 min",
+          "market_template_id": 921,
+          "market_template_weigh": 120,
+          "markets": [
+            {
+              "market_id": 201863329,
+              "market_order": 1.20000010011e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.9,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040618,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.8,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040619,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "First goal 1-26 min",
+          "market_template_id": 921,
+          "market_template_weigh": 120,
+          "markets": [
+            {
+              "market_id": 201863330,
+              "market_order": 1.20000010011e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.95,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040620,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.75,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040621,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "First goal 1-28 min",
+          "market_template_id": 921,
+          "market_template_weigh": 120,
+          "markets": [
+            {
+              "market_id": 201863331,
+              "market_order": 1.20000010011e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.85,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040622,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.85,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040623,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "First goal 1-25 min",
+          "market_template_id": 921,
+          "market_template_weigh": 120,
+          "markets": [
+            {
+              "market_id": 201863332,
+              "market_order": 1.20000010011e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040624,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.7,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040625,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "First goal 1-29 min",
+          "market_template_id": 921,
+          "market_template_weigh": 120,
+          "markets": [
+            {
+              "market_id": 201863333,
+              "market_order": 1.20000010011e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.8,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040626,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.9,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040627,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "First goal 1-24 min",
+          "market_template_id": 921,
+          "market_template_weigh": 120,
+          "markets": [
+            {
+              "market_id": 201863334,
+              "market_order": 1.20000010011e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.1,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040628,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.65,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040629,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "First goal 1-30 min",
+          "market_template_id": 921,
+          "market_template_weigh": 120,
+          "markets": [
+            {
+              "market_id": 201863335,
+              "market_order": 1.20000010011e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.75,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040630,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.95,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040631,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "First goal 1-31 min",
+          "market_template_id": 921,
+          "market_template_weigh": 120,
+          "markets": [
+            {
+              "market_id": 201863336,
+              "market_order": 1.20000010011e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.7,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040632,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040633,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "First goal 1-32 min",
+          "market_template_id": 921,
+          "market_template_weigh": 120,
+          "markets": [
+            {
+              "market_id": 201863337,
+              "market_order": 1.20000010011e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.68,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040634,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.03,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040635,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "First goal 1-23 min",
+          "market_template_id": 921,
+          "market_template_weigh": 120,
+          "markets": [
+            {
+              "market_id": 201863338,
+              "market_order": 1.20000010011e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.2,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040636,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.6,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040637,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "First goal 1-33 min",
+          "market_template_id": 921,
+          "market_template_weigh": 120,
+          "markets": [
+            {
+              "market_id": 201863339,
+              "market_order": 1.20000010011e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.65,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040638,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.1,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040639,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "First goal 1-34 min",
+          "market_template_id": 921,
+          "market_template_weigh": 120,
+          "markets": [
+            {
+              "market_id": 201863341,
+              "market_order": 1.20000010011e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.62,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040642,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.15,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040643,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "First goal 1-35 min",
+          "market_template_id": 921,
+          "market_template_weigh": 120,
+          "markets": [
+            {
+              "market_id": 201863342,
+              "market_order": 1.20000010011e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.6,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040644,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.2,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040645,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "First goal 1-36 min",
+          "market_template_id": 921,
+          "market_template_weigh": 120,
+          "markets": [
+            {
+              "market_id": 201863343,
+              "market_order": 1.20000010011e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.57,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040646,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.25,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040647,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "First goal 1-37 min",
+          "market_template_id": 921,
+          "market_template_weigh": 120,
+          "markets": [
+            {
+              "market_id": 202049000,
+              "market_order": 1.20000010011e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.55,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496461796,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.3,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496461797,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Last goal 68-FT min",
+          "market_template_id": 957,
+          "market_template_weigh": 130,
+          "markets": [
+            {
+              "market_id": 201863353,
+              "market_order": 1.30000010681e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.65,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040666,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.1,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040667,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Last goal 69-FT min",
+          "market_template_id": 957,
+          "market_template_weigh": 130,
+          "markets": [
+            {
+              "market_id": 201863351,
+              "market_order": 1.30000010691e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.67,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040662,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.05,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040663,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Last goal 70-FT min",
+          "market_template_id": 957,
+          "market_template_weigh": 130,
+          "markets": [
+            {
+              "market_id": 201863350,
+              "market_order": 1.30000010701e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.7,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040660,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040661,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Last goal 71-FT min",
+          "market_template_id": 957,
+          "market_template_weigh": 130,
+          "markets": [
+            {
+              "market_id": 201863347,
+              "market_order": 1.30000010711e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.75,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040654,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.95,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040655,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Last goal 72-FT min",
+          "market_template_id": 957,
+          "market_template_weigh": 130,
+          "markets": [
+            {
+              "market_id": 201863345,
+              "market_order": 1.30000010721e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.8,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040650,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.9,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040651,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Last goal 73-FT min",
+          "market_template_id": 957,
+          "market_template_weigh": 130,
+          "markets": [
+            {
+              "market_id": 201863344,
+              "market_order": 1.30000010731e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.85,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040648,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.85,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040649,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Last goal 74-FT min",
+          "market_template_id": 957,
+          "market_template_weigh": 130,
+          "markets": [
+            {
+              "market_id": 201863346,
+              "market_order": 1.30000010741e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.9,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040652,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.8,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040653,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Last goal 75-FT min",
+          "market_template_id": 957,
+          "market_template_weigh": 130,
+          "markets": [
+            {
+              "market_id": 201863348,
+              "market_order": 1.30000010751e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.95,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040656,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.75,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040657,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Last goal 76-FT min",
+          "market_template_id": 957,
+          "market_template_weigh": 130,
+          "markets": [
+            {
+              "market_id": 201863349,
+              "market_order": 1.30000010761e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040658,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.7,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040659,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Last goal 77-FT min",
+          "market_template_id": 957,
+          "market_template_weigh": 130,
+          "markets": [
+            {
+              "market_id": 201863352,
+              "market_order": 1.30000010771e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.05,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040664,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.67,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040665,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "How many goals will be scored",
+          "market_template_id": 789,
+          "market_template_weigh": 140,
+          "markets": [
+            {
+              "market_id": 201863301,
+              "market_order": 1.40000010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 8.5,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040541,
+                  "outcome_type_id": 250,
+                  "outcome_name": "No Goal",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 4.6,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040546,
+                  "outcome_type_id": 300,
+                  "outcome_name": "1",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 3.2,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040542,
+                  "outcome_type_id": 269,
+                  "outcome_name": "2",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 3.85,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040543,
+                  "outcome_type_id": 270,
+                  "outcome_name": "3",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 5.5,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040544,
+                  "outcome_type_id": 271,
+                  "outcome_name": "4",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 5.9,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040545,
+                  "outcome_type_id": 280,
+                  "outcome_name": "5+",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "How many goals will CSKA Moscow score",
+          "market_template_id": 801,
+          "market_template_weigh": 140,
+          "markets": [
+            {
+              "market_id": 201863302,
+              "market_order": 1.40010010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.9,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040552,
+                  "outcome_type_id": 399,
+                  "outcome_name": "0",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.24,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040551,
+                  "outcome_type_id": 300,
+                  "outcome_name": "1",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 3.95,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040547,
+                  "outcome_type_id": 269,
+                  "outcome_name": "2",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 10.5,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040548,
+                  "outcome_type_id": 270,
+                  "outcome_name": "3",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 19.5,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040549,
+                  "outcome_type_id": 271,
+                  "outcome_name": "4",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 75.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040550,
+                  "outcome_type_id": 280,
+                  "outcome_name": "5+",
+                  "participant_number": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "How many goals will Bayer 04 Leverkusen score",
+          "market_template_id": 801,
+          "market_template_weigh": 140,
+          "markets": [
+            {
+              "market_id": 201863303,
+              "market_order": 1.40020010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 4.25,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040558,
+                  "outcome_type_id": 399,
+                  "outcome_name": "0",
+                  "participant_number": 2
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.46,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040557,
+                  "outcome_type_id": 300,
+                  "outcome_name": "1",
+                  "participant_number": 2
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 3.25,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040553,
+                  "outcome_type_id": 269,
+                  "outcome_name": "2",
+                  "participant_number": 2
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 6.5,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040554,
+                  "outcome_type_id": 270,
+                  "outcome_name": "3",
+                  "participant_number": 2
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 14.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040555,
+                  "outcome_type_id": 271,
+                  "outcome_name": "4",
+                  "participant_number": 2
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 22.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040556,
+                  "outcome_type_id": 280,
+                  "outcome_name": "5+",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Time of First Goal",
+          "market_template_id": 791,
+          "market_template_weigh": 160,
+          "markets": [
+            {
+              "market_id": 201863327,
+              "market_order": 1.60000010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 3.1,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040606,
+                  "outcome_type_id": 273,
+                  "outcome_name": "0-15",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 3.6,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040607,
+                  "outcome_type_id": 274,
+                  "outcome_name": "16-30",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 4.15,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040608,
+                  "outcome_type_id": 275,
+                  "outcome_name": "31-HT",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 7.1,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040609,
+                  "outcome_type_id": 276,
+                  "outcome_name": "46-60",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 11.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040610,
+                  "outcome_type_id": 277,
+                  "outcome_name": "61-75",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 13.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040611,
+                  "outcome_type_id": 278,
+                  "outcome_name": "76-FT",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "HT/FT",
+          "market_template_id": 110,
+          "market_template_weigh": 180,
+          "markets": [
+            {
+              "market_id": 201863300,
+              "market_order": 1.80000010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 4.9,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040534,
+                  "outcome_type_id": 358,
+                  "outcome_name": "HWin-HWin",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 13.5,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040532,
+                  "outcome_type_id": 350,
+                  "outcome_name": "HWin-Draw",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 7.1,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040535,
+                  "outcome_type_id": 359,
+                  "outcome_name": "Draw-HWin",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.87,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040539,
+                  "outcome_type_id": 363,
+                  "outcome_name": "AWin-AWin",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 13.5,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040540,
+                  "outcome_type_id": 365,
+                  "outcome_name": "AWin-Draw",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 4.8,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040536,
+                  "outcome_type_id": 360,
+                  "outcome_name": "Draw-AWin",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 23.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040538,
+                  "outcome_type_id": 362,
+                  "outcome_name": "AWin-HWin",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 18.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040533,
+                  "outcome_type_id": 353,
+                  "outcome_name": "HWin-AWin",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 5.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040537,
+                  "outcome_type_id": 361,
+                  "outcome_name": "Draw-Draw",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Correct Score",
+          "market_template_id": 520,
+          "market_template_weigh": 190,
+          "markets": [
+            {
+              "market_id": 201863298,
+              "market_order": 1.90000010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 7.4,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040521,
+                  "outcome_type_id": 356,
+                  "outcome_name": "Any other outcome",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 8.5,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040506,
+                  "outcome_type_id": 281,
+                  "outcome_name": "0:0",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 5.8,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040507,
+                  "outcome_type_id": 282,
+                  "outcome_name": "1:1",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 12.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040508,
+                  "outcome_type_id": 283,
+                  "outcome_name": "2:2",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 10.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040509,
+                  "outcome_type_id": 284,
+                  "outcome_name": "1:0",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 14.5,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040510,
+                  "outcome_type_id": 285,
+                  "outcome_name": "2:0",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 26.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040511,
+                  "outcome_type_id": 286,
+                  "outcome_name": "3:0",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 11.5,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040512,
+                  "outcome_type_id": 288,
+                  "outcome_name": "2:1",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 18.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040513,
+                  "outcome_type_id": 289,
+                  "outcome_name": "3:1",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 20.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040514,
+                  "outcome_type_id": 290,
+                  "outcome_name": "3:2",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 7.6,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040515,
+                  "outcome_type_id": 293,
+                  "outcome_name": "0:1",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 10.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040516,
+                  "outcome_type_id": 294,
+                  "outcome_name": "0:2",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 15.5,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040517,
+                  "outcome_type_id": 295,
+                  "outcome_name": "0:3",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 8.7,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040518,
+                  "outcome_type_id": 297,
+                  "outcome_name": "1:2",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 14.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040519,
+                  "outcome_type_id": 298,
+                  "outcome_name": "1:3",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 18.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040520,
+                  "outcome_type_id": 299,
+                  "outcome_name": "2:3",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "To Win To Nil",
+          "market_template_id": 1062,
+          "market_template_weigh": 280,
+          "markets": [
+            {
+              "market_id": 201863304,
+              "market_order": 2.80000010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 6.3,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040559,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow (YES)",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 3.7,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040560,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen (YES)",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "To Win Either Half",
+          "market_template_id": 1065,
+          "market_template_weigh": 300,
+          "markets": [
+            {
+              "market_id": 201863311,
+              "market_order": 3.00000010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.15,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040573,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 1.59,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040574,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Both halves Under 1.5 goals",
+          "market_template_id": 952,
+          "market_template_weigh": 340,
+          "markets": [
+            {
+              "market_id": 201863310,
+              "market_order": 3.40000010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.45,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040571,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.51,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040572,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "1st Half Over 1.5 and 2nd Half Over 1.5",
+          "market_template_id": 1059,
+          "market_template_weigh": 350,
+          "markets": [
+            {
+              "market_id": 201863309,
+              "market_order": 3.50000010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 5.4,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040569,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.13,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040570,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Draw and Total Under 2.5",
+          "market_template_id": 940,
+          "market_template_weigh": 360,
+          "markets": [
+            {
+              "market_id": 201863319,
+              "market_order": 3.60000010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 4.1,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040589,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.21,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040590,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Draw and Total Over 2.5",
+          "market_template_id": 941,
+          "market_template_weigh": 370,
+          "markets": [
+            {
+              "market_id": 201863318,
+              "market_order": 3.70000010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 9.2,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040587,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.04,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040588,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "CSKA Moscow to win and Total Under 2.5",
+          "market_template_id": 964,
+          "market_template_weigh": 380,
+          "markets": [
+            {
+              "market_id": 201863316,
+              "market_order": 3.80010010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 6.2,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040583,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes CSKA Moscow",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.1,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040584,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No CSKA Moscow",
+                  "participant_number": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Bayer 04 Leverkusen to win and Total Under 2.5",
+          "market_template_id": 964,
+          "market_template_weigh": 380,
+          "markets": [
+            {
+              "market_id": 201863317,
+              "market_order": 3.80020010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 4.65,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040585,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes Bayer 04 Leverkusen",
+                  "participant_number": 2
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.17,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040586,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No Bayer 04 Leverkusen",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "To Win and Total Over 2.5",
+          "market_template_id": 1068,
+          "market_template_weigh": 390,
+          "markets": [
+            {
+              "market_id": 201863313,
+              "market_order": 3.90000010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 4.95,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040577,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 3.15,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040578,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "CSKA Moscow to win and Total Over 2.5",
+          "market_template_id": 965,
+          "market_template_weigh": 390,
+          "markets": [
+            {
+              "market_id": 201863314,
+              "market_order": 3.90010010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 4.95,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040579,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes CSKA Moscow",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.1,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040580,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No CSKA Moscow",
+                  "participant_number": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Bayer 04 Leverkusen to win and Total Over 2.5",
+          "market_template_id": 965,
+          "market_template_weigh": 390,
+          "markets": [
+            {
+              "market_id": 201863315,
+              "market_order": 3.90020010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 3.15,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040581,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes Bayer 04 Leverkusen",
+                  "participant_number": 2
+                },
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 1.26,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040582,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No Bayer 04 Leverkusen",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "CSKA Moscow to win by 1 goal or Draw ",
+          "market_template_id": 959,
+          "market_template_weigh": 420,
+          "markets": [
+            {
+              "market_id": 201863323,
+              "market_order": 4.20010010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 2.1,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040598,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes CSKA Moscow",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.68,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040599,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No CSKA Moscow",
+                  "participant_number": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Bayer 04 Leverkusen to win by 1 goal or Draw ",
+          "market_template_id": 959,
+          "market_template_weigh": 420,
+          "markets": [
+            {
+              "market_id": 201863324,
+              "market_order": 4.20020010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 1.87,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040600,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes Bayer 04 Leverkusen",
+                  "participant_number": 2
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.87,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040601,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No Bayer 04 Leverkusen",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "CSKA Moscow to win by 1 goal",
+          "market_template_id": 960,
+          "market_template_weigh": 430,
+          "markets": [
+            {
+              "market_id": 201863321,
+              "market_order": 4.30010010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 5.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040594,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes CSKA Moscow",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.15,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040595,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No CSKA Moscow",
+                  "participant_number": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Bayer 04 Leverkusen to win by 1 goal",
+          "market_template_id": 960,
+          "market_template_weigh": 430,
+          "markets": [
+            {
+              "market_id": 201863322,
+              "market_order": 4.30020010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 3.9,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040596,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes Bayer 04 Leverkusen",
+                  "participant_number": 2
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.23,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040597,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No Bayer 04 Leverkusen",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "CSKA Moscow to win by 2 goals",
+          "market_template_id": 961,
+          "market_template_weigh": 450,
+          "markets": [
+            {
+              "market_id": 201863325,
+              "market_order": 4.50010010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 9.2,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040602,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes CSKA Moscow",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.04,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040603,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No CSKA Moscow",
+                  "participant_number": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Bayer 04 Leverkusen to win by 2 goals",
+          "market_template_id": 961,
+          "market_template_weigh": 450,
+          "markets": [
+            {
+              "market_id": 201863326,
+              "market_order": 4.50020010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 5.9,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040604,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes Bayer 04 Leverkusen",
+                  "participant_number": 2
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.11,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040605,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No Bayer 04 Leverkusen",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "result_type_name": "1st Half",
+      "result_type_id": 7,
+      "result_type_weigh": 2,
+      "market_groups": [
+        {
+          "market_name": "Money Line",
+          "market_template_id": 1,
+          "market_template_weigh": 10,
+          "markets": [
+            {
+              "market_id": 201863354,
+              "market_order": 1.0000010001e13,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 3.85,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040668,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 2.14,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040669,
+                  "outcome_type_id": 2,
+                  "outcome_name": "Draw",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.67,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040670,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Double chance",
+          "market_template_id": 40,
+          "market_template_weigh": 11,
+          "markets": [
+            {
+              "market_id": 201863355,
+              "market_order": 1.1000010001e13,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.38,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040671,
+                  "outcome_type_id": 4,
+                  "outcome_name": "1X",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.58,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040672,
+                  "outcome_type_id": 5,
+                  "outcome_name": "12",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.19,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040673,
+                  "outcome_type_id": 6,
+                  "outcome_name": "X2",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Draw no bet",
+          "market_template_id": 76,
+          "market_template_weigh": 15,
+          "markets": [
+            {
+              "market_id": 201863356,
+              "market_order": 1.5000010001e13,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.24,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040674,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.53,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040675,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Handicap",
+          "market_template_id": 190,
+          "market_template_weigh": 20,
+          "markets": [
+            {
+              "market_id": 201863361,
+              "market_order": 20000010000999.5,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 3.85,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040684,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow (-0.5)",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.19,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040685,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen (+0.5)",
+                  "participant_number": 2
+                }
+              ]
+            },
+            {
+              "market_id": 201863360,
+              "market_order": 2.0000010001e13,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.24,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040682,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow (0.0)",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.53,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040683,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen (0.0)",
+                  "participant_number": 2
+                }
+              ]
+            },
+            {
+              "market_id": 201863359,
+              "market_order": 20000010001000.5,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.38,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040680,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow (+0.5)",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.67,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040681,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen (-0.5)",
+                  "participant_number": 2
+                }
+              ]
+            },
+            {
+              "market_id": 201863362,
+              "market_order": 20000010001001.0,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.04,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040686,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow (+1.0)",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 7.2,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040687,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen (-1.0)",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Over/Under",
+          "market_template_id": 50,
+          "market_template_weigh": 40,
+          "markets": [
+            {
+              "market_id": 201863365,
+              "market_order": 40000010001000.5,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 1.37,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040692,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (0.5)",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.85,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040693,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (0.5)",
+                  "participant_number": null
+                }
+              ]
+            },
+            {
+              "market_id": 201863363,
+              "market_order": 40000010001001.0,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.79,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040688,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (1.0)",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.85,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040689,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (1.0)",
+                  "participant_number": null
+                }
+              ]
+            },
+            {
+              "market_id": 201863364,
+              "market_order": 40000010001001.5,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.7,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040690,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (1.5)",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.37,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040691,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (1.5)",
+                  "participant_number": null
+                }
+              ]
+            },
+            {
+              "market_id": 201863366,
+              "market_order": 40000010001002.0,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 5.5,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040694,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (2.0)",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.09,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040695,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (2.0)",
+                  "participant_number": null
+                }
+              ]
+            },
+            {
+              "market_id": 201863367,
+              "market_order": 40000010001002.5,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 6.4,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040696,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (2.5)",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.06,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040697,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (2.5)",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Team total CSKA Moscow",
+          "market_template_id": 740,
+          "market_template_weigh": 50,
+          "markets": [
+            {
+              "market_id": 201863368,
+              "market_order": 50010010001000.5,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.28,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040698,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (0.5)",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.51,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040699,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (0.5)",
+                  "participant_number": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Team total Bayer 04 Leverkusen",
+          "market_template_id": 740,
+          "market_template_weigh": 50,
+          "markets": [
+            {
+              "market_id": 201863369,
+              "market_order": 50020010001000.5,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.87,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040700,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (0.5)",
+                  "participant_number": 2
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.77,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040701,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (0.5)",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Odd / Even",
+          "market_template_id": 74,
+          "market_template_weigh": 57,
+          "markets": [
+            {
+              "market_id": 201863358,
+              "market_order": 5.7000010001e13,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.01,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040678,
+                  "outcome_type_id": 30,
+                  "outcome_name": "Odd",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.66,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040679,
+                  "outcome_type_id": 31,
+                  "outcome_name": "Even",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Both Teams to Score",
+          "market_template_id": 779,
+          "market_template_weigh": 60,
+          "markets": [
+            {
+              "market_id": 201863357,
+              "market_order": 6.0000010001e13,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 4.2,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040676,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.16,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040677,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "First Team to Score",
+          "market_template_id": 786,
+          "market_template_weigh": 99,
+          "markets": [
+            {
+              "market_id": 201863370,
+              "market_order": 9.9000010001e13,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 3.1,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040702,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.85,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040703,
+                  "outcome_type_id": 250,
+                  "outcome_name": "No Goal",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.34,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040704,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "How many goals will be scored",
+          "market_template_id": 788,
+          "market_template_weigh": 100,
+          "markets": [
+            {
+              "market_id": 201863372,
+              "market_order": 1.00000010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.85,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040721,
+                  "outcome_type_id": 250,
+                  "outcome_name": "No Goal",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.27,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040726,
+                  "outcome_type_id": 300,
+                  "outcome_name": "1",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 3.9,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040722,
+                  "outcome_type_id": 269,
+                  "outcome_name": "2",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 6.4,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040724,
+                  "outcome_type_id": 279,
+                  "outcome_name": "3+",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "How many goals will CSKA Moscow score",
+          "market_template_id": 802,
+          "market_template_weigh": 150,
+          "markets": [
+            {
+              "market_id": 201863374,
+              "market_order": 1.50010010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.51,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040727,
+                  "outcome_type_id": 250,
+                  "outcome_name": "No Goal",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.67,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040730,
+                  "outcome_type_id": 300,
+                  "outcome_name": "1",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 10.5,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040728,
+                  "outcome_type_id": 269,
+                  "outcome_name": "2",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 35.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040729,
+                  "outcome_type_id": 279,
+                  "outcome_name": "3+",
+                  "participant_number": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "How many goals will Bayer 04 Leverkusen score",
+          "market_template_id": 802,
+          "market_template_weigh": 150,
+          "markets": [
+            {
+              "market_id": 201863375,
+              "market_order": 1.50020010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.77,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040731,
+                  "outcome_type_id": 250,
+                  "outcome_name": "No Goal",
+                  "participant_number": 2
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.42,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040734,
+                  "outcome_type_id": 300,
+                  "outcome_name": "1",
+                  "participant_number": 2
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 7.2,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040732,
+                  "outcome_type_id": 269,
+                  "outcome_name": "2",
+                  "participant_number": 2
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 18.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040733,
+                  "outcome_type_id": 279,
+                  "outcome_name": "3+",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Correct Score",
+          "market_template_id": 520,
+          "market_template_weigh": 190,
+          "markets": [
+            {
+              "market_id": 201863371,
+              "market_order": 1.90000010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 70.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040720,
+                  "outcome_type_id": 356,
+                  "outcome_name": "Any other outcome",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.85,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040705,
+                  "outcome_type_id": 281,
+                  "outcome_name": "0:0",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 7.5,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040706,
+                  "outcome_type_id": 282,
+                  "outcome_name": "1:1",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 60.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040707,
+                  "outcome_type_id": 283,
+                  "outcome_name": "2:2",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 5.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040708,
+                  "outcome_type_id": 284,
+                  "outcome_name": "1:0",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 16.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040709,
+                  "outcome_type_id": 285,
+                  "outcome_name": "2:0",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 75.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040710,
+                  "outcome_type_id": 286,
+                  "outcome_name": "3:0",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 18.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040711,
+                  "outcome_type_id": 288,
+                  "outcome_name": "2:1",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 85.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040712,
+                  "outcome_type_id": 289,
+                  "outcome_name": "3:1",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 150.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040713,
+                  "outcome_type_id": 290,
+                  "outcome_name": "3:2",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 3.75,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040714,
+                  "outcome_type_id": 293,
+                  "outcome_name": "0:1",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 11.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040715,
+                  "outcome_type_id": 294,
+                  "outcome_name": "0:2",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 30.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040716,
+                  "outcome_type_id": 295,
+                  "outcome_name": "0:3",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 16.5,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040717,
+                  "outcome_type_id": 297,
+                  "outcome_name": "1:2",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 70.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040718,
+                  "outcome_type_id": 298,
+                  "outcome_name": "1:3",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 150.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040719,
+                  "outcome_type_id": 299,
+                  "outcome_name": "2:3",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "To Win To Nil",
+          "market_template_id": 1062,
+          "market_template_weigh": 280,
+          "markets": [
+            {
+              "market_id": 201863376,
+              "market_order": 2.80000010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 4.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040735,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow (YES)",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.88,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040736,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen (YES)",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "CSKA Moscow to win to nil",
+          "market_template_id": 967,
+          "market_template_weigh": 280,
+          "markets": [
+            {
+              "market_id": 201863377,
+              "market_order": 2.80010010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 4.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040737,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes CSKA Moscow",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.16,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040738,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No CSKA Moscow",
+                  "participant_number": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Bayer 04 Leverkusen to win to nil",
+          "market_template_id": 967,
+          "market_template_weigh": 280,
+          "markets": [
+            {
+              "market_id": 201863378,
+              "market_order": 2.80020010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.88,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040739,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes Bayer 04 Leverkusen",
+                  "participant_number": 2
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.31,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040740,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No Bayer 04 Leverkusen",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "result_type_name": "2nd Half",
+      "result_type_id": 8,
+      "result_type_weigh": 3,
+      "market_groups": [
+        {
+          "market_name": "Money Line",
+          "market_template_id": 1,
+          "market_template_weigh": 10,
+          "markets": [
+            {
+              "market_id": 201863379,
+              "market_order": 1.0000010001e13,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 3.55,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040741,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.51,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040742,
+                  "outcome_type_id": 2,
+                  "outcome_name": "Draw",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 2.38,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040743,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Double chance",
+          "market_template_id": 40,
+          "market_template_weigh": 11,
+          "markets": [
+            {
+              "market_id": 201863380,
+              "market_order": 1.1000010001e13,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.47,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040744,
+                  "outcome_type_id": 4,
+                  "outcome_name": "1X",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.43,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040745,
+                  "outcome_type_id": 5,
+                  "outcome_name": "12",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.22,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040746,
+                  "outcome_type_id": 6,
+                  "outcome_name": "X2",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Draw no bet",
+          "market_template_id": 76,
+          "market_template_weigh": 15,
+          "markets": [
+            {
+              "market_id": 201863381,
+              "market_order": 1.5000010001e13,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.26,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040747,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.52,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040748,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Handicap",
+          "market_template_id": 190,
+          "market_template_weigh": 20,
+          "markets": [
+            {
+              "market_id": 201863387,
+              "market_order": 20000010000999.5,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 3.55,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040759,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow (-0.5)",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.22,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040760,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen (+0.5)",
+                  "participant_number": 2
+                }
+              ]
+            },
+            {
+              "market_id": 201863386,
+              "market_order": 2.0000010001e13,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.26,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040757,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow (0.0)",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.52,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040758,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen (0.0)",
+                  "participant_number": 2
+                }
+              ]
+            },
+            {
+              "market_id": 201863385,
+              "market_order": 20000010001000.5,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.47,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040755,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow (+0.5)",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.38,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040756,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen (-0.5)",
+                  "participant_number": 2
+                }
+              ]
+            },
+            {
+              "market_id": 201863388,
+              "market_order": 20000010001001.0,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.1,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040761,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow (+1.0)",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 5.2,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040762,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen (-1.0)",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Over/Under",
+          "market_template_id": 50,
+          "market_template_weigh": 40,
+          "markets": [
+            {
+              "market_id": 201863392,
+              "market_order": 40000010001000.5,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 1.22,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040769,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (0.5)",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 3.85,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040770,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (0.5)",
+                  "participant_number": null
+                }
+              ]
+            },
+            {
+              "market_id": 201863390,
+              "market_order": 40000010001001.0,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 1.38,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040765,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (1.0)",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.66,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040766,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (1.0)",
+                  "participant_number": null
+                }
+              ]
+            },
+            {
+              "market_id": 201863389,
+              "market_order": 40000010001001.5,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.04,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040763,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (1.5)",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.64,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040764,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (1.5)",
+                  "participant_number": null
+                }
+              ]
+            },
+            {
+              "market_id": 201863391,
+              "market_order": 40000010001002.0,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 3.25,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040767,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (2.0)",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.26,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040768,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (2.0)",
+                  "participant_number": null
+                }
+              ]
+            },
+            {
+              "market_id": 201863393,
+              "market_order": 40000010001002.5,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 4.2,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040771,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (2.5)",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.16,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040772,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (2.5)",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Team total CSKA Moscow",
+          "market_template_id": 740,
+          "market_template_weigh": 50,
+          "markets": [
+            {
+              "market_id": 201863394,
+              "market_order": 50010010001000.5,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.9,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040773,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (0.5)",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.74,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040774,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (0.5)",
+                  "participant_number": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Team total Bayer 04 Leverkusen",
+          "market_template_id": 740,
+          "market_template_weigh": 50,
+          "markets": [
+            {
+              "market_id": 201863395,
+              "market_order": 50020010001000.5,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.57,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040775,
+                  "outcome_type_id": 10,
+                  "outcome_name": "Over (0.5)",
+                  "participant_number": 2
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.16,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040776,
+                  "outcome_type_id": 11,
+                  "outcome_name": "Under (0.5)",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Odd / Even",
+          "market_template_id": 74,
+          "market_template_weigh": 57,
+          "markets": [
+            {
+              "market_id": 201863383,
+              "market_order": 5.7000010001e13,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.91,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040751,
+                  "outcome_type_id": 30,
+                  "outcome_name": "Odd",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.73,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040752,
+                  "outcome_type_id": 31,
+                  "outcome_name": "Even",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Both Teams to Score",
+          "market_template_id": 779,
+          "market_template_weigh": 60,
+          "markets": [
+            {
+              "market_id": 201863382,
+              "market_order": 6.0000010001e13,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 3.13,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040749,
+                  "outcome_type_id": 20,
+                  "outcome_name": "Yes",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.28,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040750,
+                  "outcome_type_id": 21,
+                  "outcome_name": "No",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "How many goals will be scored",
+          "market_template_id": 788,
+          "market_template_weigh": 100,
+          "markets": [
+            {
+              "market_id": 201863397,
+              "market_order": 1.00000010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 3.85,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040793,
+                  "outcome_type_id": 250,
+                  "outcome_name": "No Goal",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.48,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040796,
+                  "outcome_type_id": 300,
+                  "outcome_name": "1",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 3.25,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040794,
+                  "outcome_type_id": 269,
+                  "outcome_name": "2",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 4.2,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040795,
+                  "outcome_type_id": 279,
+                  "outcome_name": "3+",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "How many goals will CSKA Moscow score",
+          "market_template_id": 802,
+          "market_template_weigh": 150,
+          "markets": [
+            {
+              "market_id": 201863398,
+              "market_order": 1.50010010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 1.74,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040797,
+                  "outcome_type_id": 250,
+                  "outcome_name": "No Goal",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.44,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040800,
+                  "outcome_type_id": 300,
+                  "outcome_name": "1",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 7.5,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040798,
+                  "outcome_type_id": 269,
+                  "outcome_name": "2",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 18.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040799,
+                  "outcome_type_id": 279,
+                  "outcome_name": "3+",
+                  "participant_number": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "How many goals will Bayer 04 Leverkusen score",
+          "market_template_id": 802,
+          "market_template_weigh": 150,
+          "markets": [
+            {
+              "market_id": 201863399,
+              "market_order": 1.50020010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.16,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040801,
+                  "outcome_type_id": 250,
+                  "outcome_name": "No Goal",
+                  "participant_number": 2
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.27,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040804,
+                  "outcome_type_id": 300,
+                  "outcome_name": "1",
+                  "participant_number": 2
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 5.2,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040802,
+                  "outcome_type_id": 269,
+                  "outcome_name": "2",
+                  "participant_number": 2
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 13.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040803,
+                  "outcome_type_id": 279,
+                  "outcome_name": "3+",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "Correct Score",
+          "market_template_id": 520,
+          "market_template_weigh": 190,
+          "markets": [
+            {
+              "market_id": 201863396,
+              "market_order": 1.90000010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 25.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040792,
+                  "outcome_type_id": 356,
+                  "outcome_name": "Any other outcome",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 3.85,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040777,
+                  "outcome_type_id": 281,
+                  "outcome_name": "0:0",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 6.3,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040778,
+                  "outcome_type_id": 282,
+                  "outcome_name": "1:1",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 25.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040779,
+                  "outcome_type_id": 283,
+                  "outcome_name": "2:2",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 5.4,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040780,
+                  "outcome_type_id": 284,
+                  "outcome_name": "1:0",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 14.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040781,
+                  "outcome_type_id": 285,
+                  "outcome_name": "2:0",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 45.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040782,
+                  "outcome_type_id": 286,
+                  "outcome_name": "3:0",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 15.5,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040783,
+                  "outcome_type_id": 288,
+                  "outcome_name": "2:1",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 60.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040784,
+                  "outcome_type_id": 289,
+                  "outcome_name": "3:1",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 90.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040785,
+                  "outcome_type_id": 290,
+                  "outcome_name": "3:2",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 100.0,
+                  "outcome_coef": 4.05,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040786,
+                  "outcome_type_id": 293,
+                  "outcome_name": "0:1",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 9.5,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040787,
+                  "outcome_type_id": 294,
+                  "outcome_name": "0:2",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 18.5,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040788,
+                  "outcome_type_id": 295,
+                  "outcome_name": "0:3",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 13.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040789,
+                  "outcome_type_id": 297,
+                  "outcome_name": "1:2",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 30.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040790,
+                  "outcome_type_id": 298,
+                  "outcome_name": "1:3",
+                  "participant_number": null
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 80.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040791,
+                  "outcome_type_id": 299,
+                  "outcome_name": "2:3",
+                  "participant_number": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "market_name": "To Win To Nil",
+          "market_template_id": 1062,
+          "market_template_weigh": 280,
+          "markets": [
+            {
+              "market_id": 201863384,
+              "market_order": 2.80000010001e14,
+              "market_suspend": "no",
+              "outcomes": [
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 4.0,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040753,
+                  "outcome_type_id": 1,
+                  "outcome_name": "CSKA Moscow (YES)",
+                  "participant_number": 1
+                },
+                {
+                  "outcome_perc_stat": 0.0,
+                  "outcome_coef": 2.83,
+                  "outcome_visible": "yes",
+                  "outcome_id": 496040754,
+                  "outcome_type_id": 3,
+                  "outcome_name": "Bayer 04 Leverkusen (YES)",
+                  "participant_number": 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
